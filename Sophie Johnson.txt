@@ -1,0 +1,9 @@
+Dear Sophie Johnson,
+
+You didn't last too long at the lecture today! (70 mins.) You need to stay for the full duration.
+
+Name: Sophie Johnson
+Student number: 6789012
+Logon time: 09:30
+Logff time: 10:40
+Email: sophie.johnson@example.com
